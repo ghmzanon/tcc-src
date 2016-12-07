@@ -1,8 +1,7 @@
 #include <stdint.h>
 #include <stdbool.h>
 #include <gmp.h>
-
-#define N 512
+#include "params.h"
 
 typedef mpz_t* poly;
 
